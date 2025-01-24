@@ -1,3 +1,5 @@
 tf_modisco/data/*.h5
 tf_modisco/data/*.hdf5
+tf_modisco/data/*.zip
 data/*.npz
+data/*.zip
